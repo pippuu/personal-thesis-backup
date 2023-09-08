@@ -1,2 +1,2 @@
-# thesis_backup
-Repository for my thesis's backup.
+# personal-thesis-backup
+Repository for my thesis backup.
